@@ -1,12 +1,51 @@
-# Charity Fundraising Application
+# Online Fundraising Web Application  
+### Developed using Google Gemini CLI  
 
-## How to Run
-1. Open a terminal in this folder.
-2. Install dependencies:
+This repository contains the full source code for my charity fundraising web application, generated and refined using Google's Gemini CLI.  
+All application files are packaged inside **Web Application.zip**.
+
+---
+
+## 📦 How to Access the Application Code
+
+1. Click **Web Application.zip** in this repository.
+2. Click **Download**.
+3. Extract the ZIP file on your computer.
+
+You should now see the full project folder containing:
+- `/src`  
+- `/public`  
+- `package.json`  
+- and all other necessary files.
+
+---
+
+## 🚀 How to Run the Application Locally
+
+### **Prerequisites**
+Before running the app, ensure you have:
+
+- **Node.js** installed  
+  Download from: https://nodejs.org  
+- **npm** (comes with Node.js)
+
+---
+
+### **Running the App**
+After extracting the ZIP:
+
+1. **Open a terminal** inside the extracted project folder  
+   (the folder that contains `package.json`)
+
+2. Install all dependencies:
+   ```bash
    npm install
-3. Start the server:
-   node server.js
-4. Open the app in a browser:
+3. Start the application:
+
+   npm start
+
+4. Open your browser and visit
+
    http://localhost:3000
 
 ## Notes
